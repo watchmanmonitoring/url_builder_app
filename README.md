@@ -87,4 +87,4 @@ If you wish to change the output, locate the app by looking for the name you cho
 Improvements are always welcome. To contribute, please submit detailed Pull Requests.
 
 ## Screenshot(s):
-![screenshot-1](/assets/screenshot.png)
+![screenshot-1](/assets/screenshot-1.png)
