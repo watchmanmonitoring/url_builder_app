@@ -8,7 +8,7 @@ A Zendesk App to help you generate links for agents.
 
 ## Instructions:
 
-1. Download a [.zip of this app](https://github.com/zendesklabs/url_builder_app/archive/master.zip)
+1. Download a copy of this app from the [releases page.](../../releases)
 2. Navigate to your Zendesk Admin's Apps -> Manage page
 3. Click `Upload App`
 4. Enter a descriptive name of your choosing, and upload this .zip
@@ -79,7 +79,7 @@ This example will generate the following HTML inside the app:
 
 If you wish to change the output, locate the app by looking for the name you choose in step 4 above. Use the widget to `Change Settings`
 
-<img width="195" src="https://github.com/watchmanmonitoring/url_builder_app/raw/master/assets/app-settings-change.png" />
+<img width="195" src="/assets/app-settings-change.png" />
 
 
 ## Contribution
