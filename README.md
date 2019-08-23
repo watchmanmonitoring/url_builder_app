@@ -54,14 +54,14 @@ This example will generate the following HTML inside the app:
 * `{{ticket.requester.id}}`
 * `{{ticket.requester.name}}`
 * `{{ticket.requester.email}}`
-* `{{ticket.requester.externalId}}`
+* `{{ticket.requester.external_Id}}`
 * `{{ticket.requester.firstname}}`
 * `{{ticket.requester.lastname}}`
 * `{{ticket.requester.user_fields.YYY}}` = custom user fields can be used
 * `{{ticket.assignee.user.id}}`
 * `{{ticket.assignee.user.name}}`
 * `{{ticket.assignee.user.email}}`
-* `{{ticket.assignee.user.externalId}}`
+* `{{ticket.assignee.user.external_Id}}`
 * `{{ticket.assignee.user.firstname}}`
 * `{{ticket.assignee.user.lastname}}`
 * `{{ticket.assignee.group.id}}`
@@ -71,7 +71,7 @@ This example will generate the following HTML inside the app:
 * `{{current_user.id}}`
 * `{{current_user.name}}`
 * `{{current_user.email}}`
-* `{{current_user.externalId}}`
+* `{{current_user.external_Id}}`
 * `{{current_user.firstname}}`
 * `{{current_user.lastname}}`
 
